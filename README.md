@@ -1,4 +1,4 @@
-android-ribbit-design
-=====================
+Treehouse Ribbit Design (Android)
+=============================
 
-Project files for the Implementing Designs for Android course
+These are the full project files for the design overhaul of the Ribbit app used in Treehouse's Implementing Designs for Android course.
